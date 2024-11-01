@@ -1,5 +1,4 @@
-import Navbar from "@/app/components/Footer";
-let Video2 = () => {
+const Video2 = () => {
   return (
     <div>
       {/* <Navbar /> */}
