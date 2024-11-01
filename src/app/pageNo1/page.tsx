@@ -1,4 +1,3 @@
-import Navbar from "../components/Footer";
 export default function Page() {
   return (
     <div>
